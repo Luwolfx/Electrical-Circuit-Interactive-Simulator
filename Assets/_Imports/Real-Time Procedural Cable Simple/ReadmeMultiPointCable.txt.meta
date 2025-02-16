@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c024cb4056981948a44c466df61cf72
+timeCreated: 1516564156
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102196
+  packageName: Real-Time Procedural Cable Simple
+  packageVersion: 1.1
+  assetPath: Assets/Real-Time Procedural Cable Simple/ReadmeMultiPointCable.txt
+  uploadId: 350676

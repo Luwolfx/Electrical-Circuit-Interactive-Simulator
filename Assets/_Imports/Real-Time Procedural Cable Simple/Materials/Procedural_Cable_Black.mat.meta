@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 50998c4cae1d8f340817c7a3058b7bfa
+timeCreated: 1502671602
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102196
+  packageName: Real-Time Procedural Cable Simple
+  packageVersion: 1.1
+  assetPath: Assets/Real-Time Procedural Cable Simple/Materials/Procedural_Cable_Black.mat
+  uploadId: 350676

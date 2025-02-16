@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19c1627e72a513a439df5c2cae372f73
+timeCreated: 1516564156
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102196
+  packageName: Real-Time Procedural Cable Simple
+  packageVersion: 1.1
+  assetPath: Assets/Real-Time Procedural Cable Simple/ReadmeStaticCable.txt
+  uploadId: 350676
